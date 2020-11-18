@@ -1,2 +1,2 @@
-static/* linguist-vendored
-babynames/* linguist-vendored
+* linguist-vendored
+*.py linguist-vendored=false
