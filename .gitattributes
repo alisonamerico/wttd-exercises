@@ -1,1 +1,2 @@
-*.py linguist-language=Python
+babynames/* linguist-vendored
+*.py linguist-vendored=false
